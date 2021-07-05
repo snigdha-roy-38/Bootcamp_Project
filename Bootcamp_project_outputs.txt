@@ -1,0 +1,7 @@
+1.My Output is :  <md5 HASH object @ 0x05B31C20>
+
+2.My Output is :  <md5 HASH object @ 0x07ACF0C8>
+  My Output is :  <sha1 HASH object @ 0x05B31CF8>
+  My Output is :  <_sha3.shake_256 object at 0x07A3D7A0>
+
+3.My Output is :  <md5 HASH object @ 0x05B31C20>
